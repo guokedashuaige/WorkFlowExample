@@ -1,0 +1,3 @@
+尽管还有很多替代的工具，文档中还是主要关注JavaScript 界最流行的三个工具，
+分别是： Yeoman ，由Goog l e 开发，作为脚手架工具； Bower ，由Twitter 开发，作为
+依赖管理工具； Gu lp ，作为构建工具
